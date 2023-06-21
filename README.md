@@ -11,5 +11,5 @@ index.html
                  <div class="principal">
                          <h1>Sobre a Barbearia Alura</h1>
 
-                         <p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabeloe barba.
+                         <p>Localizada no coração da cidade a <strong>Barbearia Alura</strong> traz para o mercado o que há de melhor para o seu cabeloe barba. Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos 
                     
